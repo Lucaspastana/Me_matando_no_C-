@@ -8,5 +8,11 @@ namespace CursoCSharp.Fundamentos
 {
     internal class OperadoresAtribuicao
     {
+        public static void Esxecutar()
+        {
+            var num1 = 3;
+            num1 += 10;
+             
+        }
     }
 }
