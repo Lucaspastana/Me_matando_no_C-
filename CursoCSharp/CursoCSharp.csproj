@@ -51,6 +51,9 @@
     <Compile Include="Fundamentos\Interpolacao.cs" />
     <Compile Include="Fundamentos\LendoDados.cs" />
     <Compile Include="Fundamentos\NotacaoPonto.cs" />
+    <Compile Include="Fundamentos\OperadoresAritmetico.cs" />
+    <Compile Include="Fundamentos\OperadoresLogicos.cs" />
+    <Compile Include="Fundamentos\OperadoresRelacionais.cs" />
     <Compile Include="Fundamentos\PrimeiroPrograma.cs" />
     <Compile Include="Fundamentos\VariaveisEConstantes.cs" />
     <Compile Include="Program.cs" />
